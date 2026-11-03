@@ -1,4 +1,4 @@
- # 🎯 Aim Mastery Hub - 一頁式瞄準學習歷程與 2D 電競對決平台
+# 🎯 Aim Mastery Hub - 一頁式瞄準學習歷程與 2D 電競對決平台
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![HTML5 / Canvas](https://img.shields.io/badge/HTML5-Canvas-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
